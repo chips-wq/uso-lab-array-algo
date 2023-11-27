@@ -1,8 +1,8 @@
 #include <stdio.h>
 
-static void sort(void)
+static void merge_sort(void)
 {
-    // TODO: add radix sort algorithm here
+    // TODO: add merge sort algorithm here
 }
 
 int main()

@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-static void sort(void)
+static void radix_sort(void)
 {
     // TODO: add radix sort algorithm here
 }
